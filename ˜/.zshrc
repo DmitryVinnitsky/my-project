@@ -1,0 +1,1 @@
+autoload -Uz compinit && compinit in your .zshrc
